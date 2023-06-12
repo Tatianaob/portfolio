@@ -9,7 +9,7 @@ function Navbar() {
   const location = useLocation();
 
   useEffect(() => {
-    setExpandNavbar(false)
+    setExpandNavbar(false);
   }, [location]);
 
   return (
