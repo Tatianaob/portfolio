@@ -9,8 +9,10 @@ function Home() {
         <div className="prompt">
           <p>
             A software developer student with a passion for learning and
-            working in collaborative and diverese spaces
+            working in collaborative and diverse spaces. Originally from Colombia and a Seattleite
+            at heart.
           </p>
+          <image src="assets/tatiana.jpeg"></image>
         </div>
       </div>
       <div className="skills">
