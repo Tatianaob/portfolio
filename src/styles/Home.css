@@ -2,7 +2,7 @@
     width: 100%;
     align-items: center;
     font-family: "Arial", sans-serif;
-    color: #1b3e49;
+    color:  #0b0f05dc;
   }
   
   .about {
@@ -13,7 +13,7 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #9a108fdc;
+    background-color: #0b0f05dc;
     color: #f0f0f0;
   }
   
@@ -44,12 +44,13 @@
   }
   
   .skills h1 {
-    color: #3f0832;
+    color: #8cbbae;
   }
   
   .skills .list {
     list-style: none;
-    width: 60%;
+    width: 50%;
+    align-items: center;
   }
   
   .list span {

@@ -18,12 +18,12 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            University of Arkansas, Fayetteville, AR.
+            University of Arkansas, Fayetteville AR.
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Bachelor's Degree 
+            Bachelor's Degree
           </h4>
-          <p>  Modern Languages </p>
+          <p>  Modern Languages & Cultures, 4.0 GPA </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -32,7 +32,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Ada Developers Academy
+            Ada Developers Academy, Seattle WA.
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
@@ -48,12 +48,21 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Spanish Tutor - Private Tutor
+            Bilingual Childcare Specialist
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Seattle, WA
           </h4>
-          <p>Provide Spanish lessons and care for individuals</p>
+          <p>
+          <li>Tutored and Provided academic support in subject such as Spanish, science,math, social studies.</li>
+          <li>Organized and Managed all aspects of children's daily lives including but not limited to planning and
+            preparing meals in accordance to their dietary needs.
+          </li>
+          <li>
+            Safely transported children to and from all appointments, school, and
+            extracurricular activities.
+          </li>
+          </p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -69,8 +78,15 @@ function Experience() {
             Seattle, WA
           </h4>
           <p>
-            Help the team launch one major project by working both in the front
-            end and back end.
+            <li>Participated in the Sustainability and Data Science Hackathon as a member of the ‘ Reduce Reviews Recycle’ team which was selected as one of the top ten finalists. Our project aimed to encourage employees to review  
+              products to decrease product returns and reduce carbon footprint.
+            </li>
+            <li>Developed API endpoint to retrieve the path to 
+              a specified node within a hierarchical data structure in a PostgreSQL LTree</li>
+            <li>Built custom React hooks to manage query parameter based state to support deep linking for customers</li>
+            <li>Migrated React application Redux thunks to RTK Query API State Management</li>
+            <li>Participated in Product Platform Biweekly demos to showcase progress of the user interface development for  taxonomists.</li>
+
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
