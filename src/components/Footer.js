@@ -9,10 +9,10 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <InstagramIcon/>
-            <Twitter/>
-            <LinkedInIcon/>
-            <EmailIcon/>
+          <a href="https://www.instagram.com/tata.obando/"><InstagramIcon/></a>
+          <a href="https://twitter.com/tatiobandore"><Twitter/></a>
+          <a href="https://www.linkedin.com/in/tatiana-obando/"><LinkedInIcon/></a>
+          <a href="mailto:ltatiobandore@gmail.com"><EmailIcon/></a>
         </div>
         <p> &copy; 2023 tatianatech.com</p></div>
   )

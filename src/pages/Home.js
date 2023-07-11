@@ -1,7 +1,4 @@
 import React from "react";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import GithubIcon from "@material-ui/icons/GitHub";
-import EmailIcon from "@material-ui/icons/Email";
 import "../styles/Home.css";
 
 function Home() {
@@ -14,9 +11,6 @@ function Home() {
             A software developer student with a passion for learning and
             working in collaborative and diverese spaces
           </p>
-          <EmailIcon />
-          <LinkedInIcon />
-          <GithubIcon />
         </div>
       </div>
       <div className="skills">
