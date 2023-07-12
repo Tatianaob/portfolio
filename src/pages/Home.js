@@ -10,9 +10,9 @@ function Home() {
           <p>
             A software developer student with a passion for learning and
             working in collaborative and diverse spaces. Originally from Colombia and a Seattleite
-            at heart.
+            at heart, when I am not coding I am running, dancing, exploring the outdoors or 
+            enjoing a good show.
           </p>
-          <image src="assets/tatiana.jpeg"></image>
         </div>
       </div>
       <div className="skills">

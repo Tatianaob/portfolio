@@ -13,9 +13,11 @@ function ProjectDisplay() {
         <h1> {project.name}</h1>
         <img src={project.image} alt=""/>
         <p> 
-            <b>Skills:</b>{project.skills}
+            <b>Description:</b>{project.description}
             </p>
+        <a href="https://github.com/Tatianaob/ohmyrun_backend">
         <GitHubIcon/>
+        </a>
     </div>
   );
 }
