@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fb6205b8.css",
-    "main.js": "/portfolio/static/js/main.042f6492.js",
+    "main.css": "/portfolio/static/css/main.ac40a53a.css",
+    "main.js": "/portfolio/static/js/main.43f3f243.js",
     "static/js/787.8ebebb42.chunk.js": "/portfolio/static/js/787.8ebebb42.chunk.js",
     "static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg": "/portfolio/static/media/glenn-carstens-peters-RLw-UC03Gwc-unsplash.d490befb6831278109a4.jpg",
+    "static/media/tatiana_runner.jpeg": "/portfolio/static/media/tatiana_runner.5b57aecf371e928f5c90.jpeg",
+    "static/media/tatiana_colombia.jpeg": "/portfolio/static/media/tatiana_colombia.addbe148256ea41c03c9.jpeg",
     "static/media/running.jpeg": "/portfolio/static/media/running.e6359b4ca51150e4be30.jpeg",
+    "static/media/tatiana_dancer.jpeg": "/portfolio/static/media/tatiana_dancer.5bbe66d30e330bfdaf34.jpeg",
     "static/media/spotify.jpeg": "/portfolio/static/media/spotify.560373993d65d91cc427.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.fb6205b8.css.map": "/portfolio/static/css/main.fb6205b8.css.map",
-    "main.042f6492.js.map": "/portfolio/static/js/main.042f6492.js.map",
+    "main.ac40a53a.css.map": "/portfolio/static/css/main.ac40a53a.css.map",
+    "main.43f3f243.js.map": "/portfolio/static/js/main.43f3f243.js.map",
     "787.8ebebb42.chunk.js.map": "/portfolio/static/js/787.8ebebb42.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb6205b8.css",
-    "static/js/main.042f6492.js"
+    "static/css/main.ac40a53a.css",
+    "static/js/main.43f3f243.js"
   ]
 }
