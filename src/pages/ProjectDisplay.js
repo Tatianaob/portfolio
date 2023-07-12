@@ -15,9 +15,7 @@ function ProjectDisplay() {
         <p> 
             <b>Description:</b>{project.description}
             </p>
-        <a href="https://github.com/Tatianaob/ohmyrun_backend">
         <GitHubIcon/>
-        </a>
     </div>
   );
 }

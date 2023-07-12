@@ -14,7 +14,8 @@ function Footer() {
           <a href="https://www.linkedin.com/in/tatiana-obando/"><LinkedInIcon/></a>
           <a href="mailto:ltatiobandore@gmail.com"><EmailIcon/></a>
         </div>
-        <p> &copy; 2023 tatianatech.com</p></div>
+      
+        <p> &copy;2023 Tatiana Obando </p></div>
   )
 }
 

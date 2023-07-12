@@ -11,11 +11,11 @@ export const ProjectList = [{
 {
 name: "Spotify Clone",
 image: Proj2,
-description: "The Spotify clone project is currently under development. It aims to replicate the popular music streaming service, Spotify, providing users with a similar experience. The project involves creating a web or mobile application where users can stream music, create playlists, follow artists, discover new music, and personalize their listening preferences. The goal is to offer a familiar interface and features, allowing users to enjoy their favorite music and explore new tracks, all within a customized music streaming platform."
+description: "Currently under development. This project aims to replicate the popular music streaming service."
 },
 {
 name: "Task List",
 image: Proj3,
-description: "Add skills"
+description: "A fun project to help others stay organized and productive. It allows people to track and manage tasks efficiently."
 },
 ]
